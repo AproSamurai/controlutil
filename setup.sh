@@ -8,6 +8,8 @@ sudo apt-get install -qy git python3-pip libglib2.0-dev libhidapi-hidraw0 libhid
 
 sudo pip3 install hid aioconsole crc8 dbus-python
 
+sudo apt install blueman
+
 cd ~/
 
 git clone https://github.com/AproSamurai/joycontrol.git
