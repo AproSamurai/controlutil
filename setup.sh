@@ -10,6 +10,10 @@ sudo pip3 install hid aioconsole crc8 dbus-python
 
 sudo apt install blueman
 
+sudo snap install atom --classic
+
+sudo apt-get install file-roller
+
 cd ~/
 
 git clone https://github.com/AproSamurai/joycontrol.git
