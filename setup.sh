@@ -10,7 +10,7 @@ sudo pip3 install hid aioconsole crc8 dbus-python
 
 sudo apt install blueman
 
-sudo snap install atom --classic
+sudo apt-get install gedit
 
 sudo apt-get install file-roller
 
